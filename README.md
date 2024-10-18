@@ -36,9 +36,12 @@ Welcome to my Power BI Data Visualization Project! In this project, I utilized M
 ## Project Overview
 The project begins with an introduction to the basics of Power BI, including navigation through the software interface, connecting to various data files, and exporting worksheets. This foundation ensures that users, regardless of their prior experience, feel comfortable using Power BI.
 
+![Store Sales Analysis](https://github.com/krAman00/Store-Sales-Analysis-PowerBI/blob/main/Project%20Screenshot%201.png)
+
+
 ### Data Analysis Techniques
-To identify trends and make accurate forecasts, I worked with hierarchies and time series data. Key techniques included:
-- **Aggregation**: Used to summarize information effectively and highlight significant trends.
+I worked with hierarchies and time series data to identify trends and make accurate forecasts. Key techniques included:
+- **Aggregation**: Summarizing information effectively and highlighting significant trends.
 - **Granularity Management**: Ensured accurate calculations by adjusting the level of detail in data visualizations.
 
 ### Visualization Development
@@ -52,6 +55,9 @@ The project also explored advanced custom visualizations, including:
 - **Histograms**: For distribution analysis.
 - **Brick Charts**: To represent categorical data visually.
 
+  ![Store Sales Analysis](https://github.com/krAman00/Store-Sales-Analysis-PowerBI/blob/main/Project%20Screenshot%202.png)
+
+
 ## Key Skills Developed
 Throughout this project, I developed the following skills:
 - **Proficiency in Power BI**: Gained hands-on experience in using the software for data analysis and visualization.
@@ -60,7 +66,14 @@ Throughout this project, I developed the following skills:
 - **Data Cleaning with Power Query**: Enhanced my ability to prepare data for analysis, ensuring its quality and reliability.
 - **Connecting to Multiple Data Sources**: Improved my understanding of integrating diverse data sources into a cohesive analytical framework.
 
+
+  ![Store Sales Analysis](https://github.com/krAman00/Store-Sales-Analysis-PowerBI/blob/main/Project%20Screenshot%205.png)
+
+
 ## Conclusion
 By completing this project, I honed my skills in data analysis and visualization, preparing me to collect, examine, and present data effectively for various applications. Whether working with scientific data, sales forecasts, or operational metrics, I am equipped to deliver data-driven insights that can guide business strategy.
+
+  ![Store Sales Analysis](https://github.com/krAman00/Store-Sales-Analysis-PowerBI/blob/main/Project%20Screenshot%206.png)
+
 
 Feel free to explore the repository, check out the visualizations, and reach out if you have any questions or feedback!
