@@ -3,7 +3,7 @@
 ![Store Sales Analysis](https://github.com/krAman00/Store-Sales-Analysis-PowerBI/blob/main/Power%20BI%20Project.png)
 
 
-# Power BI Data Visualization Project
+# [Power BI Data Visualization Project](https://drive.google.com/file/d/1jId4GrnS5YAjjCbqSUOIVkIs9pCnF9X5/view?usp=drive_link)
 
 Welcome to my Power BI Data Visualization Project! In this project, I utilized Microsoft Power BI to analyze and visualize data, providing key decision-makers with insights into patterns such as customer purchase behavior, sales trends, and production bottlenecks. The project aims to transform raw data into actionable insights that can drive strategic business decisions.
 
@@ -35,6 +35,8 @@ Welcome to my Power BI Data Visualization Project! In this project, I utilized M
 
 ## Project Overview
 The project begins with an introduction to the basics of Power BI, including navigation through the software interface, connecting to various data files, and exporting worksheets. This foundation ensures that users, regardless of their prior experience, feel comfortable using Power BI.
+
+[Download PowerBI Project](https://drive.google.com/file/d/1jId4GrnS5YAjjCbqSUOIVkIs9pCnF9X5/view?usp=drive_link)
 
 ![Store Sales Analysis](https://github.com/krAman00/Store-Sales-Analysis-PowerBI/blob/main/Project%20Screenshot%201.png)
 
